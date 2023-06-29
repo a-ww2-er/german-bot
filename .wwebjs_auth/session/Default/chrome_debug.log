@@ -1,0 +1,22 @@
+[0628/192737.338:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0628/192737.360:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0628/192802.245:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[0628/192830.646:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192830.647:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192830.671:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.036:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.398:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.399:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.399:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.400:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.400:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.400:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.402:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192831.402:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[0628/192834.095:INFO:CONSOLE(2)] "Uncaught (in promise) LogoutDrop: adding to store when blocking store adds", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (2)
+[0628/192834.599:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (7)
+[0628/192834.600:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.580937ad48c20edd640d.worker.js (1)
+[0628/192835.882:WARNING:spdy_session.cc(3488)] Received WINDOW_UPDATE for invalid stream 1
+[0628/192835.993:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0628/192835.993:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0628/192837.548:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (7)

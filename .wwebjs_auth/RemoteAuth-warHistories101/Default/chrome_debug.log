@@ -1,0 +1,32 @@
+[0629/020916.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0629/020916.886:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0629/020934.675:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[0629/020934.932:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[0629/024639.053:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024644.071:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024654.103:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024712.530:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024717.540:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024727.573:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/024736.871:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/043111.933:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/043117.122:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/043127.143:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/043147.189:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/043151.154:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052646.731:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052651.745:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052701.770:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052721.787:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052805.211:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052810.221:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052820.232:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/052840.249:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/053909.793:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/053914.812:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/053924.826:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/053944.853:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/054450.167:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/054455.189:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/054505.203:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0629/054525.217:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
