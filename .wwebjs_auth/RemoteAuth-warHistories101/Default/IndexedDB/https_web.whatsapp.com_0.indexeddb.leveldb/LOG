@@ -1,18 +1,12 @@
-2023/06/29-02:09:19.734 32c0 Reusing MANIFEST C:\Users\admin\Desktop\projects\german bot\.wwebjs_auth\RemoteAuth-warHistories101\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/29-02:09:19.784 32c0 Recovering log #8
-2023/06/29-02:09:19.993 32c0 Reusing old log C:\Users\admin\Desktop\projects\german bot\.wwebjs_auth\RemoteAuth-warHistories101\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000008.log 
-2023/06/29-02:10:28.379 3f08 Compacting 1@1 + 1@2 files
-2023/06/29-02:10:28.820 3f08 Generated table #12@1: 12493 keys, 685324 bytes
-2023/06/29-02:10:28.820 3f08 Compacted 1@1 + 1@2 files => 685324 bytes
-2023/06/29-02:10:28.865 3f08 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/06/29-02:10:28.867 3f08 Delete type=2 #5
-2023/06/29-02:10:28.867 3f08 Delete type=2 #10
-2023/06/29-02:29:53.055 32f8 Level-0 table #14: started
-2023/06/29-02:29:53.887 32f8 Level-0 table #14: 1281939 bytes OK
-2023/06/29-02:29:54.043 32f8 Delete type=0 #8
-2023/06/29-02:29:54.186 6a4 Compacting 1@1 + 1@2 files
-2023/06/29-02:29:55.405 6a4 Generated table #15@1: 18546 keys, 1021393 bytes
-2023/06/29-02:29:55.405 6a4 Compacted 1@1 + 1@2 files => 1021393 bytes
-2023/06/29-02:29:55.445 6a4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/06/29-02:29:55.446 6a4 Delete type=2 #12
-2023/06/29-02:29:55.447 6a4 Delete type=2 #14
+2023/06/30-12:05:45.919 3168 Reusing MANIFEST C:\Users\admin\Desktop\projects\german bot\.wwebjs_auth\RemoteAuth-warHistories101\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-12:05:45.964 3168 Recovering log #21
+2023/06/30-12:05:46.512 3168 Reusing old log C:\Users\admin\Desktop\projects\german bot\.wwebjs_auth\RemoteAuth-warHistories101\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000021.log 
+2023/06/30-12:06:24.780 349c Level-0 table #26: started
+2023/06/30-12:06:25.440 349c Level-0 table #26: 1359790 bytes OK
+2023/06/30-12:06:25.528 349c Delete type=0 #21
+2023/06/30-12:06:25.776 36a0 Compacting 1@1 + 1@2 files
+2023/06/30-12:06:26.507 36a0 Generated table #27@1: 36917 keys, 1905355 bytes
+2023/06/30-12:06:26.507 36a0 Compacted 1@1 + 1@2 files => 1905355 bytes
+2023/06/30-12:06:26.620 36a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/30-12:06:26.620 36a0 Delete type=2 #23
+2023/06/30-12:06:26.621 36a0 Delete type=2 #26

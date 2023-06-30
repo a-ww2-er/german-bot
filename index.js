@@ -68,7 +68,6 @@ const connectClient = async () => {
   client.on("message", async (message) => {
     const contact = await message.getContact();
     if (message.body.toLowerCase() === "ping") {
-      console.log(message._data);
       message.reply(`pong  @${contact.id.user} ${contact.pushname} `);
     }
     if (message.body === "who is daniz") {
@@ -87,7 +86,7 @@ const connectClient = async () => {
       message.downloadMedia().then((media) => {
         const sticker = new MessageMedia(media.mimetype, media.data, "sticker");
         // Send the image as a sticker!
-        return client.sendMessage(message.from, sticker,{sendMediaAsSticker:true,stickerAuthor:"german-bot",stickerName:"made in germany"}).catch((err) => {
+        return client.sendMessage(message.from, sticker,{sendMediaAsSticker:true,stickerAuthor:"german-bot",stickerName:"made in The F.S.L.G"}).then(()=>message.reply(`Here is the sticker @${contact.id.user}`)).catch((err) => {
           console.log(err);
         });
       });
